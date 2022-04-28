@@ -1,5 +1,5 @@
 {
-  "name": "tsc",
+  "name": "nro-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,11 +15,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/cheerio": "^0.22.31",
     "@types/node": "^16.11.7",
+    "@types/uuid": "^8.3.4",
     "nodemon": "^2.0.15",
     "ts-node": "^10.4.0",
     "prettier": "2.5.1",
     "typescript": "^4.4.4",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "jsdom": "^19.0.0",
+    "uuid": "^8.3.2"
   }
 }

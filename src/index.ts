@@ -1,1 +1,5 @@
-console.log("Hello Mars");
+async function run() {
+    
+} 
+
+run();
