@@ -1,8 +1,7 @@
 # NRO-Scraper
 1. Run `yarn install`
-2. Run `yarn dev` to start Nodemon process
+2. Run `yarn run start` to start the application, or `yarn dev` to start Nodemon process wit hot-reloading
 3. Run `yarn dev:debug` to start debugging process
-
 
 ## Running inside Docker Container
 
