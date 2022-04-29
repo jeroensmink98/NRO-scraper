@@ -179,4 +179,6 @@ $RECYCLE.BIN/
 
 build
 
+.DS_Store
+*.jpg
 # End of https://www.toptal.com/developers/gitignore/api/node,windows,visualstudiocode
